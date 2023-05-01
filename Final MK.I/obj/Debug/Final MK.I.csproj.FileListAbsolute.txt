@@ -1,0 +1,36 @@
+C:\Users\User\Music\Final MK.I\bin\Debug\Final MK.I.exe.config
+C:\Users\User\Music\Final MK.I\bin\Debug\Final MK.I.exe
+C:\Users\User\Music\Final MK.I\bin\Debug\Final MK.I.pdb
+C:\Users\User\Music\Final MK.I\obj\Debug\Final MK.I.csproj.AssemblyReference.cache
+C:\Users\User\Music\Final MK.I\obj\Debug\Final MK.I.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Music\Final MK.I\obj\Debug\Final_MK.I.Form1.resources
+C:\Users\User\Music\Final MK.I\obj\Debug\Final_MK.I.Properties.Resources.resources
+C:\Users\User\Music\Final MK.I\obj\Debug\Final MK.I.csproj.GenerateResource.cache
+C:\Users\User\Music\Final MK.I\obj\Debug\Final MK.I.csproj.CoreCompileInputs.cache
+C:\Users\User\Music\Final MK.I\obj\Debug\Final MK.I.exe
+C:\Users\User\Music\Final MK.I\obj\Debug\Final MK.I.pdb
+C:\Users\User\Music\Final MK.I\obj\Debug\Final_MK.I.FormDemo.resources
+C:\Users\User\Desktop\AWDSPRING\Final MK.I\bin\Debug\Final MK.I.exe.config
+C:\Users\User\Desktop\AWDSPRING\Final MK.I\bin\Debug\Final MK.I.exe
+C:\Users\User\Desktop\AWDSPRING\Final MK.I\bin\Debug\Final MK.I.pdb
+C:\Users\User\Desktop\AWDSPRING\Final MK.I\obj\Debug\Final MK.I.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\AWDSPRING\Final MK.I\obj\Debug\Final MK.I.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\AWDSPRING\Final MK.I\obj\Debug\Final_MK.I.Form1.resources
+C:\Users\User\Desktop\AWDSPRING\Final MK.I\obj\Debug\Final_MK.I.FormDemo.resources
+C:\Users\User\Desktop\AWDSPRING\Final MK.I\obj\Debug\Final_MK.I.Properties.Resources.resources
+C:\Users\User\Desktop\AWDSPRING\Final MK.I\obj\Debug\Final MK.I.csproj.GenerateResource.cache
+C:\Users\User\Desktop\AWDSPRING\Final MK.I\obj\Debug\Final MK.I.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\AWDSPRING\Final MK.I\obj\Debug\Final MK.I.exe
+C:\Users\User\Desktop\AWDSPRING\Final MK.I\obj\Debug\Final MK.I.pdb
+C:\projectSpectrum\Final MK.I\bin\Debug\Final MK.I.exe.config
+C:\projectSpectrum\Final MK.I\bin\Debug\Final MK.I.exe
+C:\projectSpectrum\Final MK.I\bin\Debug\Final MK.I.pdb
+C:\projectSpectrum\Final MK.I\obj\Debug\Final MK.I.csproj.AssemblyReference.cache
+C:\projectSpectrum\Final MK.I\obj\Debug\Final MK.I.csproj.SuggestedBindingRedirects.cache
+C:\projectSpectrum\Final MK.I\obj\Debug\Final_MK.I.Form1.resources
+C:\projectSpectrum\Final MK.I\obj\Debug\Final_MK.I.FormDemo.resources
+C:\projectSpectrum\Final MK.I\obj\Debug\Final_MK.I.Properties.Resources.resources
+C:\projectSpectrum\Final MK.I\obj\Debug\Final MK.I.csproj.GenerateResource.cache
+C:\projectSpectrum\Final MK.I\obj\Debug\Final MK.I.csproj.CoreCompileInputs.cache
+C:\projectSpectrum\Final MK.I\obj\Debug\Final MK.I.exe
+C:\projectSpectrum\Final MK.I\obj\Debug\Final MK.I.pdb
